@@ -1,3 +1,24 @@
+# Final Project Overview
+Add a New Assessment Feature to an Online Course Application
+
+## Learning Objectives:
+- Understand the requirements of the new course assessment feature
+- Create question, choice, and submission models
+- Create a new course object with exam related models using the admin site
+- Update the course details template to show questions and choices
+- Create a new exam result template to show the result of the submission
+- Create a new exam result submission view
+- Create a new view to display and evaluate exam result
+
+### Review Criteria
+- Implement changes in Question, Choice and Submission model. 3 marks
+- Register models. 3 marks
+- Get admin site working. 1 marks
+- Design Course Details section. 2 marks
+- Wite function based views. 2 marks
+- Write urls for access. 2 marks
+- Show final result. 2 marks
+
 
 **General Notes**
 
